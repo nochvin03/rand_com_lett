@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rand_com_lett/static/css/main.9d0a9bad.css",
+    "main.js": "/rand_com_lett/static/js/main.08765682.js",
+    "index.html": "/rand_com_lett/index.html",
+    "main.9d0a9bad.css.map": "/rand_com_lett/static/css/main.9d0a9bad.css.map",
+    "main.08765682.js.map": "/rand_com_lett/static/js/main.08765682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0a9bad.css",
+    "static/js/main.08765682.js"
+  ]
+}
