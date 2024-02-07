@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rand_comb_lett/static/css/main.9d0a9bad.css",
-    "main.js": "/rand_comb_lett/static/js/main.08765682.js",
+    "main.css": "/rand_comb_lett/static/css/main.0134f5c7.css",
+    "main.js": "/rand_comb_lett/static/js/main.faccadd3.js",
     "index.html": "/rand_comb_lett/index.html",
-    "main.9d0a9bad.css.map": "/rand_comb_lett/static/css/main.9d0a9bad.css.map",
-    "main.08765682.js.map": "/rand_comb_lett/static/js/main.08765682.js.map"
+    "main.0134f5c7.css.map": "/rand_comb_lett/static/css/main.0134f5c7.css.map",
+    "main.faccadd3.js.map": "/rand_comb_lett/static/js/main.faccadd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d0a9bad.css",
-    "static/js/main.08765682.js"
+    "static/css/main.0134f5c7.css",
+    "static/js/main.faccadd3.js"
   ]
 }
